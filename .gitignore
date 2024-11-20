@@ -24,3 +24,6 @@ doc/**/*.pdf
 # ignore all venv directory
 .venv*/
 !requirements.txt
+
+# ignore data directory, because it is just for testing
+data/*
